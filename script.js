@@ -92,7 +92,6 @@ mm2.add("(min-width: 800px)", () => {
             start: '50% 50%',
             end: '200% 100%',
             scrub: 1,
-            // markers: true
         }
     });
 
@@ -135,7 +134,7 @@ mm2.add("(max-width: 799px)", () => {
             start: '0% 90%',
             end: '100% 100%',
             scrub: 1,
-            markers: true
+            
         }
     });
 
